@@ -16,6 +16,6 @@ Este proyecto muestra una pantalla informativa sobre Jetpack Compose, utilizando
 
 ## 📸 Capturas
 
-![Captura](header.png)
+![Captura](captura3a.png)
 
 
